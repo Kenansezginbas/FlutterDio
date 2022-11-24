@@ -25,8 +25,9 @@ class _HomePageState extends State<HomePage> {
               itemBuilder: (context, index) {
                 return Card(
                   child: ListTile(
-                    title: Text(data[index].id.toString()),
+                    title: Text(data[index].email.toString()),
                     subtitle: Text(data[index].body.toString()),
+                    leading: Text(data[index].id.toString()),
                   ),
                 );
               },
