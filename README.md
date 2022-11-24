@@ -1,10 +1,10 @@
-# flutter_dio
+# Flutter Dio
 
-A new Flutter project.
+How To Use Dio in Flutter ? 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Package : https://pub.dev/packages/dio
 
 A few resources to get you started if this is your first Flutter project:
 
